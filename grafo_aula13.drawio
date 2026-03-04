@@ -1,0 +1,51 @@
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36 Edg/145.0.0.0" version="29.6.0">
+  <diagram name="Página-1" id="PTdp52U2MT6Xw2Hc_3R6">
+    <mxGraphModel dx="1418" dy="750" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="ULbaP05b60KR2fStEPWr-5" edge="1" parent="1" source="ULbaP05b60KR2fStEPWr-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" target="ULbaP05b60KR2fStEPWr-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ULbaP05b60KR2fStEPWr-6" connectable="0" parent="ULbaP05b60KR2fStEPWr-5" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" value="Conhece" vertex="1">
+          <mxGeometry relative="1" x="-0.53" y="-3" as="geometry">
+            <mxPoint y="-2" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ULbaP05b60KR2fStEPWr-11" edge="1" parent="1" source="ULbaP05b60KR2fStEPWr-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" target="ULbaP05b60KR2fStEPWr-3">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ULbaP05b60KR2fStEPWr-12" connectable="0" parent="ULbaP05b60KR2fStEPWr-11" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" value="Estuda em" vertex="1">
+          <mxGeometry relative="1" x="-0.0993" y="-3" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ULbaP05b60KR2fStEPWr-1" parent="1" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" value="Aluno A" vertex="1">
+          <mxGeometry height="80" width="80" x="100" y="220" as="geometry" />
+        </mxCell>
+        <mxCell id="ULbaP05b60KR2fStEPWr-7" edge="1" parent="1" source="ULbaP05b60KR2fStEPWr-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" target="ULbaP05b60KR2fStEPWr-3">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ULbaP05b60KR2fStEPWr-8" connectable="0" parent="ULbaP05b60KR2fStEPWr-7" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" value="Trabalha em" vertex="1">
+          <mxGeometry relative="1" x="-0.3103" y="-1" as="geometry">
+            <mxPoint y="-2" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ULbaP05b60KR2fStEPWr-9" edge="1" parent="1" source="ULbaP05b60KR2fStEPWr-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" target="ULbaP05b60KR2fStEPWr-3">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ULbaP05b60KR2fStEPWr-10" connectable="0" parent="ULbaP05b60KR2fStEPWr-9" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" value="Estuda em" vertex="1">
+          <mxGeometry relative="1" x="-0.6047" y="-3" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ULbaP05b60KR2fStEPWr-2" parent="1" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" value="Aluno B" vertex="1">
+          <mxGeometry height="80" width="80" x="280" y="360" as="geometry" />
+        </mxCell>
+        <mxCell id="ULbaP05b60KR2fStEPWr-3" parent="1" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" value="Empresa SENAI" vertex="1">
+          <mxGeometry height="80" width="80" x="660" y="270" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
